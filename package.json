@@ -1,0 +1,23 @@
+{
+  "name": "node-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reganperkins/node-web-scraper.git"
+  },
+  "author": "regan-perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reganperkins/node-web-scraper/issues"
+  },
+  "homepage": "https://github.com/reganperkins/node-web-scraper",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.50.0"
+  }
+}
